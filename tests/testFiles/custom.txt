@@ -1,0 +1,11 @@
+FirstName/LastName/BasicSalary/Allowance/Transportation/SalaryDate
+Johssn/Doe/5000/200/100/20230701
+Jane/Smiddth/6000/300/150/20230702
+Mark/Johndsson/7000/400/200/20230703
+Sarah/Lese/8000/500/250/20230704
+Michael/Brfown/9000/600/300/20230705
+Emily/Davdis/10000/700/350/20230706
+David/Garcisa/11000/800/400/20230707
+Olivia/Rodrisaguez/12000/900/450/20230708
+William/Martignez/13000/1000/500/20230709
+Sophia/Hernanhadez/14000/1100/550/20230710

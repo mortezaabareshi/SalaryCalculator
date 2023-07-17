@@ -1,0 +1,82 @@
+[
+    {
+        "FirstName": "John",
+        "LastName": "Doe",
+        "BasicSalary": 5000,
+        "Allowance": 1000,
+        "Transportation": 500,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "Jane",
+        "LastName": "Doe",
+        "BasicSalary": 6000,
+        "Allowance": 1500,
+        "Transportation": 700,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "Tom",
+        "LastName": "Smith",
+        "BasicSalary": 4500,
+        "Allowance": 800,
+        "Transportation": 400,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "Sara",
+        "LastName": "Johnson",
+        "BasicSalary": 5500,
+        "Allowance": 1200,
+        "Transportation": 600,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "David",
+        "LastName": "Lee",
+        "BasicSalary": 7000,
+        "Allowance": 2000,
+        "Transportation": 900,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "Angela",
+        "LastName": "Davis",
+        "BasicSalary": 4800,
+        "Allowance": 900,
+        "Transportation": 450,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "Brian",
+        "LastName": "Wilson",
+        "BasicSalary": 6500,
+        "Allowance": 1800,
+        "Transportation": 800,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "Emily",
+        "LastName": "Taylor",
+        "BasicSalary": 5200,
+        "Allowance": 1000,
+        "Transportation": 500,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "Jason",
+        "LastName": "Chen",
+        "BasicSalary": 5800,
+        "Allowance": 1300,
+        "Transportation": 650,
+        "SalaryDate": "2022-01-15"
+    },
+    {
+        "FirstName": "Lisa",
+        "LastName": "Johnson",
+        "BasicSalary": 4700,
+        "Allowance": 850,
+        "Transportation": 420,
+        "SalaryDate": "2022-01-15"
+    }
+]

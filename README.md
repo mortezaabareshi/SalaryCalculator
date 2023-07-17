@@ -7,8 +7,7 @@ This is a salary calculator project built with .NET using Domain-Driven Design (
 To run this project locally, follow the steps below:
 
 #### Prerequisites
-* Install .NET SDK (version X.X.X) from Microsoft's official website
-* Install PostgreSQL (version X.X.X) from PostgreSQL's official website
+* Install .NET 6 SDK and runtime from [Microsoft's official website](https://learn.microsoft.com/en-us/dotnet/core/install)
 ### Installation
 Clone this repository to your local machine
 Open the project directory in a terminal or command prompt
